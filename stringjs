@@ -1,0 +1,29 @@
+const name="priyansh"
+const repocount=50
+//console.log(name+ repocount+"value")
+
+console.log(`hello my name is ${name} and my repo count is ${repocount}` );
+
+const GameNAme=new String("priyansh-hc-com")
+console.log(GameNAme[0]);
+
+console.log(GameNAme.__proto__);
+
+console.log(GameNAme.length);
+console.log(GameNAme.indexOf("h"));
+
+console.log(GameNAme.charAt(9));
+
+console.log(GameNAme.trim());
+console.log(GameNAme.split("-"));
+
+console.log(GameNAme.slice(-8,10))
+console.log(GameNAme.substring(0,7));
+
+const url="https://priyansh.com/priyansh20%yadav"
+
+console.log(url.replace("20%","-"));
+
+
+
+
