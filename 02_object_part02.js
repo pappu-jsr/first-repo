@@ -70,12 +70,12 @@ const course={
 const {courseInstructor : Instructor}=course  ///// object destructure
 console.log(Instructor);
 
- {
-            "name": "hitesh",
-            "coursename": "js in hindi",
-            "price": "free"
- }
-
+//  {
+//             "name": "hitesh",
+//             "coursename": "js in hindi",
+//             "price": "free"
+//  }
+//// work as json
  [
 
     {},
